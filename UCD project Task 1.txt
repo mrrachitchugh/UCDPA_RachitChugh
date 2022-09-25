@@ -1,0 +1,4 @@
+Create a new repository on GitHub as [UCDPA_yourname]
+○ Keep committing to the repository
+○ Remember to include the URL of your repository at the beginning of your
+Project Report document
